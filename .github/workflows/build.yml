@@ -10,8 +10,13 @@ on:
 env:
   GH_TOKEN: ${{ github.token }}
 
+
 jobs:
   build:
+
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     steps:
       - name: Download and extract packwiz
