@@ -1,0 +1,4 @@
+.artifacts/
+.github/
+.gitignore
+*.mrpack

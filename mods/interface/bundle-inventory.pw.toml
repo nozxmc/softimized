@@ -1,0 +1,13 @@
+name = "Bundle Inventory"
+filename = "../BundleInventory-Fabric-1.7.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9uikk2Ea/versions/q6hDwr5L/BundleInventory-Fabric-1.7.3.jar"
+hash-format = "sha512"
+hash = "c7ab8751478262d37198c6ab886e71df64a6e39ca81844a5cac6d6db3d1581b6594753a3d671485b4aeddfc163b744581a8be1ef59124ef6585a97fdc55518e2"
+
+[update]
+[update.modrinth]
+mod-id = "9uikk2Ea"
+version = "q6hDwr5L"

@@ -1,0 +1,13 @@
+name = "NoTextureRotations"
+filename = "../NoTextureRotations-1.0.4+1.21.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h4ktIYQ8/versions/IxkvkNET/NoTextureRotations-1.0.4%2B1.21.2.jar"
+hash-format = "sha512"
+hash = "64f79276e3dea39125ed6cdf517558818d9924af5e05851a456fb5ac1a38c0ff5cb0978fb0da7eef2ae1cca77baeb6c24aef68a254601e6de567082f58b501a5"
+
+[update]
+[update.modrinth]
+mod-id = "h4ktIYQ8"
+version = "IxkvkNET"

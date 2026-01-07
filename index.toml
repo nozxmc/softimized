@@ -1,0 +1,309 @@
+hash-format = "sha256"
+
+[[files]]
+file = "configureddefaults/config/customclientbrand.json"
+
+[[files]]
+file = "configureddefaults/config/entity_texture_features.json"
+
+[[files]]
+file = "configureddefaults/config/iris.properties"
+
+[[files]]
+file = "configureddefaults/config/lambdynlights.toml"
+
+[[files]]
+file = "configureddefaults/config/modernfix-mixins.properties"
+
+[[files]]
+file = "configureddefaults/config/modmenu.json"
+
+[[files]]
+file = "configureddefaults/config/moreculling.toml"
+
+[[files]]
+file = "configureddefaults/config/sodium-extra-options.json"
+
+[[files]]
+file = "configureddefaults/config/sodium-options.json"
+
+[[files]]
+file = "configureddefaults/config/xaerominimap-common.txt"
+
+[[files]]
+file = "configureddefaults/config/xaerominimap.txt"
+
+[[files]]
+file = "configureddefaults/config/xaerominimap_entities.json"
+
+[[files]]
+file = "configureddefaults/config/zoomify.json"
+
+[[files]]
+file = "configureddefaults/options.txt"
+
+[[files]]
+file = "credits.txt"
+
+[[files]]
+file = "mods/appearance/3dskinlayers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appearance/bettergrassify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appearance/cubes-without-borders.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appearance/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appearance/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appearance/mapmipmapmod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appearance/sodium-shadowy-path-blocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/betterf3.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/bundle-inventory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/chatnotify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/chatpatches.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/leave-my-bars-alone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/map-in-slot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/morechathistory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/paginatedadvancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/raised.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/rrls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/interface/simple-shulker-preview.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/malilib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/placeholder-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modpack-utilities/configured-defaults.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modpack-utilities/custom-client-brand.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modpack-utilities/mixintrace.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modpack-utilities/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/language-reload.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/moreculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-support/animatica.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-support/continuity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-support/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-support/entitytexturefeatures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-support/optiboxes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-support/optigui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-support/puzzle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/client-maps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/debugify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/e4mc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/freecam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/gamma-utils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/litematica.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/my-resource-pack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/notexturerotations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/xaeroplus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/zoomify.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r640209_MC1.21.x.zip"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+metafile = true
