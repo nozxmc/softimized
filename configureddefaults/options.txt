@@ -23,7 +23,7 @@ skipMultiplayerWarning:true
 telemetryOptInExtra:false
 tutorialStep:none
 
-resourcePacks:["vanilla","fabric","file/VanillaTweaks_r790325_MC1.21.x.zip"]
+resourcePacks:["vanilla","fabric","file/VanillaTweaks_r640209_MC1.21.x.zip"]
 
 
 key_key.sneak:key.keyboard.left.control
